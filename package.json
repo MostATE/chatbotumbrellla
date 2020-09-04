@@ -1,0 +1,18 @@
+{
+  "name": "umbrellabot",
+  "version": "1.0.0",
+  "description": "bot for messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ate",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
